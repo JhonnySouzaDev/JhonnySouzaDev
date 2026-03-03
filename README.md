@@ -55,10 +55,9 @@ Tenho disciplina para aprender de forma consistente e busco evoluir através de 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JhonnySouza0&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonnySouza0&layout=compact&theme=tokyonight" />
-</p>
+![Jhonny's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonnySouza0&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonnySouza0&layout=compact&theme=tokyonight)
 
 ---
 
