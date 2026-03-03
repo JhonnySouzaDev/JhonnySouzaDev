@@ -1,9 +1,11 @@
-# Jhonny Souza
+<h1 align="center">Jhonny Souza</h1>
 
-💻 Desenvolvedor Full Stack Júnior  
-🎓 Técnico em Desenvolvimento de Software  
-👥 Interessado em sempre ajudar com o que for preciso sempre
+<p align="center">
+💻 Desenvolvedor Full Stack Júnior <br>
+🎓 Técnico em Desenvolvimento de Software <br>
+👥 Interessado em sempre ajudar com o que for preciso <br>
 🎯 Foco em desenvolvimento de ponta a ponta (Front → Back → Banco de Dados)
+</p>
 
 ---
 
@@ -11,6 +13,18 @@
 
 Sou desenvolvedor Full Stack em início de carreira, com foco em construir bases sólidas e entender profundamente como as aplicações funcionam do front-end ao banco de dados.  
 Tenho disciplina para aprender de forma consistente e busco evoluir através de projetos práticos que desafiem minha lógica e minha organização de código.
+
+---
+
+## 📫 Contato & Portfólio
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jhonny-souza/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
 
 ---
 
@@ -41,21 +55,16 @@ Tenho disciplina para aprender de forma consistente e busco evoluir através de 
 
 ## 📊 GitHub Stats
 
-![Jhonny's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonnySouza0&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonnySouza0&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JhonnySouza0&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonnySouza0&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🎯 Objetivo
 
 Conquistar minha primeira oportunidade como desenvolvedor, contribuir com soluções eficientes e continuar evoluindo tecnicamente até me tornar um profissional referência na área.
-
----
-
-## 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonny-souza/)
 
 ---
 
