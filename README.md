@@ -55,9 +55,9 @@ Tenho disciplina para aprender de forma consistente e busco evoluir através de 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JhonnySouzaDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JhonnySouzaDev&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonnySouzaDev&layout=compact&theme=tokyonight)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JhonnySouzaDev&theme=tokyonight)
 
 ---
 
